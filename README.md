@@ -19,11 +19,4 @@ Content and media belong to their respective authors. Font licenses are included
 
 ## Supporting PDFs
 
-Large PDF links currently point to the existing public portfolio. To host them here, upload these files to `assets/`, keeping these names, then replace each original-site PDF URL in the HTML with `/assets/<filename>`:
-
-- `assets/Any-ttach-Workshop-Manuscript.pdf`
-- `assets/CEER.pdf`
-- `assets/Formula-SAE-Front-Wing-Paper.pdf`
-- `assets/Learn-Imagine-and-Paint.pdf`
-- `assets/Robot-Assisted-Stone-Dusting.pdf`
-- `assets/SO101-Drawing-Technical-Report.pdf`
+All supporting PDFs are served directly from this repository's `assets/` directory. The portfolio pages, images, fonts, résumé, and project reports are hosted on GitHub Pages.
