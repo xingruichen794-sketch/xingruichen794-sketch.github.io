@@ -13,7 +13,7 @@ A static English website covering robotics, mechanical design, and experimental 
 
 Preview locally with `python3 -m http.server 8000`, then open http://localhost:8000.
 
-GitHub Pages publishes from the root of `main`. The `.nojekyll` file keeps the site as plain static files. No build step or external services are required.
+GitHub Pages publishes from the root of `main`. The `.nojekyll` file keeps the site as plain static files. The site runs without a build step or client-side dependencies.
 
 Content and media belong to their respective authors. Font licenses are included in `assets/`.
 
